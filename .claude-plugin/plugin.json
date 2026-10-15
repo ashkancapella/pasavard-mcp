@@ -1,0 +1,13 @@
+{
+  "name": "pasavard",
+  "version": "1.0.0",
+  "description": "Pasavard in Claude Code: hourly-tracked Digikala and Snappshop price lists by category and budget, with cashback links. Read-only.",
+  "author": {
+    "name": "Ashkan Ayyoogh",
+    "url": "https://pasavard.ir"
+  },
+  "homepage": "https://pasavard.ir/about",
+  "repository": "https://github.com/ashkancapella/pasavard-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "iran", "shopping", "price-tracking", "digikala", "snappshop", "cashback", "persian"]
+}

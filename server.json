@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ir.pasavard/mcp",
+  "title": "Pasavard",
+  "description": "Pasavard: hourly-tracked Digikala/Snappshop price lists by category and budget, with cashback links. Read-only.",
+  "version": "1.0.0",
+  "websiteUrl": "https://pasavard.ir/about",
+  "repository": {
+    "url": "https://github.com/ashkancapella/pasavard-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://pasavard.ir/mcp-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["256x256"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://pasavard.ir/api/mcp"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pasavard": {
+      "type": "http",
+      "url": "https://pasavard.ir/api/mcp"
+    }
+  }
+}

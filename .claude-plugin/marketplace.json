@@ -1,0 +1,20 @@
+{
+  "name": "pasavard",
+  "owner": {
+    "name": "Ashkan Ayyoogh"
+  },
+  "metadata": {
+    "description": "Pasavard plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "pasavard",
+      "source": "./",
+      "description": "Pasavard: hourly-tracked Digikala and Snappshop price lists by category and budget, with cashback links. Read-only.",
+      "version": "1.0.0",
+      "category": "shopping",
+      "homepage": "https://pasavard.ir/about",
+      "keywords": ["mcp", "shopping", "price-tracking", "cashback"]
+    }
+  ]
+}
